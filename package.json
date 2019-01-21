@@ -1,0 +1,15 @@
+{
+  "name": "finalcalc",
+  "version": "1.0.0",
+  "description": "this is for final check",
+  "main": "index.js",
+  "scripts": {
+    "test": "ng test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Marpu.Janaki@cyient.com"
+  },
+  "author": "marpujanakiram",
+  "license": "ISC"
+}
